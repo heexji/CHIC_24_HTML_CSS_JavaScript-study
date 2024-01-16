@@ -1,28 +1,42 @@
-	# CHIC_24_HTML_CSS_JavaScript-study
-24년도 겨울방학 CHIC HTML-CSS-JavaScript 스터디
+# 24년도 겨울방학 CHIC HTML-CSS-JavaScript 스터디
 
-#CHIC STUDY
+## 스터디 1조 (월요일 16시 분반)
+**스터디장: 천성윤**
 
-(1) 1/8 - OT
-	스터디 진행 방식 회의
- 
-(2) 1/15 - HTML (1) 
-	chapter 1, 2, 3, 4 학습
- 
-(3) 1/22 - HTML (2) & CSS (1)
-	학습 검토 후 HTML을 활용한 파일 제작 실습, 5, 6, 7, 8 예습
- 
-(4) 1/29 - CSS (2) 
-	학습 검토 후 HTML과 CSS를 활용한 페이지 제작 실습
- 
-(5) 2/5 - JavaScript (1)
-	chapter 9, 10, 11, 12 학습
- 
-(6) 2/12 (설날 대체 공휴일) - JavaScript (2)
-	학습 검토 및 프로젝트 진행 회의
- 
-(7) 2/19 Project (1)
-	프로젝트 진행
- 
-(8) 2/26 Project (2)
-	프로젝트 마무리 및 회고
+ 김가연, 이은강, 전서연, **천성윤**, 김태민
+
+
+## 스터디 2조 (수요일 16시 분반)
+**스터디장: 정송희**
+
+ 김희연, 김희지, **정송희**, 이재근, 정유빈
+
+ # 교재 HTML5 웹프로그래밍 입문
+단원 구성
+Chapter 01 웹 개요와 실습 환경 구축
+
+Chapter 02 웹 페이지 기본 구조와 작성 방법
+
+Chapter 03 HTML5 기본 태그
+
+Chapter 04 HTML5 입력 양식 태그와 구조화 태그
+
+Chapter 05 CSS3 기초: 선택자와 단위
+
+Chapter 06 CSS3 속성
+
+Chapter 07 다양한 레이아웃의 구성과 기능
+
+Chapter 08 반응형 웹
+
+Chapter 09 자바스크립트 기본 문법
+
+Chapter 10 문서 객체 모델
+
+Chapter 11 jQuery 라이브러리
+
+Chapter 12 자바스크립트와 jQuery 라이브러리 응용
+
+chapter 13 프로젝트: 모바일 페이지 제작
+
+chapter 13 프로젝트: 핀터레스트 스타일의 웹페이지 제작
